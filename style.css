@@ -84,6 +84,7 @@ nav > a:hover {
 }
 
 main {
+    text-align: justify;
     margin: auto;
     margin-bottom: 30px;
     border-bottom-left-radius: 10px;
